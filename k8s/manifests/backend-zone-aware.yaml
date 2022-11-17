@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: a1server:v1
+          image: a12server:v1
           ports:
             - name: http
               containerPort: 8080
